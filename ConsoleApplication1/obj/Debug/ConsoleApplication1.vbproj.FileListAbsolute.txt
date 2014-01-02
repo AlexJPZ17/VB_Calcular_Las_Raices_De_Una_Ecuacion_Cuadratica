@@ -1,0 +1,13 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+D:\Mis Documentos\Projects Visual Studio 2013\Visual Basic\Claces\Console\AJ Programer\CalcularLasRaícesDeUnaEcuaciónCuadrática\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
